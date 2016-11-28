@@ -1,0 +1,5 @@
+hello,this is myfirst git bash shell.
+this is connected to hello.git。你好啊
+
+
+哈哈,ni shi shui?
